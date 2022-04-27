@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kauan-Rod
+- 👋 Hi, I’m Kauan Rodrigues
 - 👀 I’m interested in JavaScript, ReactJS, Node.js, Express, MongoDB
 - 🌱 I’m currently learning PostgreSQL and Python
 - 💞️ I’m looking to collaborate on Full-Stack JavaScript projects
